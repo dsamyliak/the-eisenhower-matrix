@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/the-eisenhower-matrix/static/css/main.1c8654e1.css",
-    "main.js": "/the-eisenhower-matrix/static/js/main.2e9349c0.js",
+    "main.css": "/the-eisenhower-matrix/static/css/main.32ceed37.css",
+    "main.js": "/the-eisenhower-matrix/static/js/main.7dda9dcc.js",
     "static/js/787.94942ad1.chunk.js": "/the-eisenhower-matrix/static/js/787.94942ad1.chunk.js",
     "index.html": "/the-eisenhower-matrix/index.html",
-    "main.1c8654e1.css.map": "/the-eisenhower-matrix/static/css/main.1c8654e1.css.map",
-    "main.2e9349c0.js.map": "/the-eisenhower-matrix/static/js/main.2e9349c0.js.map",
+    "main.32ceed37.css.map": "/the-eisenhower-matrix/static/css/main.32ceed37.css.map",
+    "main.7dda9dcc.js.map": "/the-eisenhower-matrix/static/js/main.7dda9dcc.js.map",
     "787.94942ad1.chunk.js.map": "/the-eisenhower-matrix/static/js/787.94942ad1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c8654e1.css",
-    "static/js/main.2e9349c0.js"
+    "static/css/main.32ceed37.css",
+    "static/js/main.7dda9dcc.js"
   ]
 }
